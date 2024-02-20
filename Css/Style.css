@@ -1,0 +1,68 @@
+h1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: "Kode Mono", monospace;
+    border: 4px;
+    border-color: gold;
+    border-style: double;
+    text-shadow: 3px 5px 5px blue;
+}
+
+h2{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: "Anta", sans-serif;
+    border: 4px;
+    border-color: silver;
+    border-style: double;
+    text-shadow: 3px 5px 5px blue;
+}
+
+.margen{
+    margin-left: 625px;
+    height: 100px;
+    width: 450px;
+}
+
+#fondo{
+    background-color: green;
+    background-image: url(../images/6bf5da2814d5b323d74048d073ac293a.jpg);
+    width: 450px;
+    height: 1100px;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+img{
+    border: 5px;
+    border-style: groove;
+    width: 440px;
+    height: 450px;
+}
+
+thead{
+    background-color: red;
+}
+
+table{
+    width: 445px;
+    align-items: center;
+    text-align: left;
+    font-family: "Protest Riot", sans-serif;
+    background-color: white;
+}
+
+p{
+    text-align: justify;
+    background-color: black;
+    color: white;
+    border: 5px;
+    border-color: brown;
+    border-style: groove;
+    font-size: 20px;
+    text-shadow: 3px 5px 5px green;
+    font-family: "Teko", sans-serif;
+}
